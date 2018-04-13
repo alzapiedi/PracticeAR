@@ -1,0 +1,3 @@
+rootProject.name = 'art_museum'
+
+include ':app'
